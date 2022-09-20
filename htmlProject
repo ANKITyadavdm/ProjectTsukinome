@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=l">
+    <title>link and images</title>
+</head>
+<body>
+    <a href="https://google.com">Go to google</a><br>
+    <a href="https://facebook.com"target="_blank">Go to facebook</a><br>
+    <a href="https://twitter.com">Go to twitter</a><br>
+    <a href="/tutorial5.html"target="_blank"> jumps to tutorial5</a>
+
+</body>
+</html>
